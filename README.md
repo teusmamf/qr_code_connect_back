@@ -1,5 +1,5 @@
-Event Management Platform
-Overview
+#Event Management Platform
+#Overview
 This project is a Minimum Viable Product (MVP) for an event management platform developed by Mateus Martins Fernandes as  a college assignment. The platform allows event and show organizers to register their companies, create events, sell tickets, manage earnings via a wallet, and validate ticket QR codes. Built within a month, this application showcases a scalable backend and a mobile-friendly front-end interface.
 Features
 
